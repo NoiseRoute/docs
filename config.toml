@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://docs.noiseroute.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Noise Route Docs'
 theme = 'hugo-geekdoc'
 
 pluralizeListTitles = false
@@ -24,3 +24,6 @@ enableRobotsTXT = true
 
 [taxonomies]
    tag = "tags"
+
+[params]
+   geekdocLogo = "noise-route.svg"
