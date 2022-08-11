@@ -1,0 +1,10 @@
+---
+kind: pipeline
+type: docker
+name: linux-build-2204
+
+steps:
+- name: build
+  image: corpusops/hugo
+  commands:
+  - hugo
