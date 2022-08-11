@@ -41,14 +41,16 @@ After you clicked `OK, don't show again`, it will not show again(unless you dele
 ## Add device
 Since desktop versions has two modes, how to add device in each mode is different.
 ### Add device in playing mode.
-By clicking the "`+`" icon on top right, a pop up will show, which you can type in the ip address of audio sending pc, and you can find the ip address of that device by reading [next section](#add-device-in-sending-mode)
+By clicking the "`+`" icon on top right, a pop up will show, which you can type in the ip address of audio sending pc, and you can learn how to find ip addres by reading [next section](#add-device-in-sending-mode)
 
 ### Add device in sending mode.
 You can click the "`+`" icon on top right, and a add device helping screen will show up, which contains informations you may need for adding device to send audio to.
 
 ![add device info](/images/send-add-device.png)
 
-
+As you see above, the pop up contains:
+* ip address of your pc.
+* QRCode ([how to add device using QRCode](../mobile#scan-qrcode))
 
 ## Switching modes
 By default, `Noise Route Desktop` is in `send audio` mode, as you can see at the top bar, but it can also receives audio if you want(then you need another desktop to send audio from), and you can do this by following these steps:
@@ -62,3 +64,5 @@ By default, `Noise Route Desktop` is in `send audio` mode, as you can see at the
 ![settings play audio](/images/settings-play.png)
 
 And you are in play audio mode and start receiving audio.
+
+
