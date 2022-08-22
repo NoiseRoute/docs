@@ -15,9 +15,11 @@ Web app is where you can download desktop version. Since you need an email-verif
 * the time you login/register/logout.
 
 # Mobile
-Mobile version does not collect any data in any form.
+Mobile version utilises Firebase Crashlytics to collect app crash informations.
+* informations collected will only be used for:
+  * improve app stability.
+  * catch unexpected bugs.
+  * analyze possible solutions for above.
 
 # Desktop
 Desktop version does not collect any data in any form.
-
-
