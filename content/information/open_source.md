@@ -10,17 +10,19 @@ Desktop and mobile app built on the same code base, hence they use (mose of) the
   * device_info_plus
   * flutter_bloc
   * string_validator
-  * audio_service(mobile only)
-  * system_tray(desktop only)
-  * window_manater(desktop only)
-  * qr_flutter(desktop only)
-  * mobile_scanner(mobile only)
   * package_info_plus
   * expandable
   * url_launcher
   * path_provider
   * ffi
   * ffi_gen
+  * system_tray(desktop only)
+  * window_manager(desktop only)
+  * qr_flutter(desktop only)
+  * audio_service(mobile only)
+  * mobile_scanner(mobile only)
+
+
 * gstreamer
 
 # Web
