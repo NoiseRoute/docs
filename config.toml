@@ -15,15 +15,17 @@ enableRobotsTXT = true
 
 # Needed for mermaid shortcodes
 [markup]
-  [markup.goldmark.renderer]
-    # Needed for mermaid shortcode
-    unsafe = true
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 9
+[markup.goldmark.renderer]
+# Needed for mermaid shortcode
+unsafe = true
+[markup.tableOfContents]
+startLevel = 1
+endLevel = 9
 
 [taxonomies]
-   tag = "tags"
+tag = "tags"
 
 [params]
-   geekdocLogo = "noise-route.svg"
+geekdocLogo = "noise-route.svg"
+geekdocRepo = "https://github.com/NoiseRoute/docs"
+geekdocEditPath = "/tree/master/"
