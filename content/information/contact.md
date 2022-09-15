@@ -3,7 +3,6 @@ title: Contact
 geekdocNav: true
 geekdocAlign: start
 geekdocAnchor: true
-geekdocEditPath: "content/information/contact"
 ---
 
 Hello, my name is Max, the solo developer of Noise Route. You can send me an email or find me on Twitter.
