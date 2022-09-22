@@ -21,8 +21,6 @@ Desktop and mobile app built on the same code base, hence they use (mose of) the
   * qr_flutter(desktop only)
   * audio_service(mobile only)
   * mobile_scanner(mobile only)
-
-
 * gstreamer
 
 # Web
