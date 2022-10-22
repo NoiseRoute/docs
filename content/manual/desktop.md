@@ -9,16 +9,19 @@ geekdocAnchor: true
 Noise Route is currently in alpha version, things may be changed in the future
 {{< /hint >}}
 
+{{< hint type=important title="Alpha" >}}
+In Alpha stage, Noise Route Desktop does not have any feature limit, but feature limit will be added once Alpha stage passed.
+{{< /hint >}}
 
 # Install
-You may need an account and verified your email before downloading `Noise Route Desktop`, you can [register](https://noiseroute.com/register) or [login](https://noiseroute.com/login)
+You can download `Noise Route Desktop` in [https://noiseroute.com/download](https://noiseroute.com/download)
 
 ## Supported OS
 
-| OS Name | Type                                          | Feature         |
+| OS Name | Type                                          | Feature supported |
 | ------- | --------------------------------------------- | --------------- |
-| Windows | `x64`                                         | Send/Play audio |
-| Linux   | `Ubuntu 22.04` `Ubuntu 20.04`  `Ubuntu 18.04` | Send/Play audio |
+| Windows | `x64`                                         | Send & Play audio |
+| Linux   | `Ubuntu 22.04` `Ubuntu 20.04`  `Ubuntu 18.04` | Send & Play audio |
 
 > ### MacOS
 > Due to security reasons, MacOS does not expose API for audio capturing, so MacOS support may come later.
