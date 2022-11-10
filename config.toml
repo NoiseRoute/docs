@@ -29,3 +29,4 @@ tag = "tags"
 geekdocLogo = "noise-route.svg"
 geekdocRepo = "https://github.com/NoiseRoute/docs"
 geekdocEditPath = "/tree/master/"
+geekdocMenuBundle = true

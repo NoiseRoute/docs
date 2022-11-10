@@ -5,8 +5,8 @@ geekdocAlign: start
 geekdocAnchor: true
 ---
 
-{{< hint type=important title="Alpha" >}}
-Noise Route is currently in alpha version, things may be changed in the future
+{{< hint type=important title="Beta" >}}
+Noise Route is currently in beta version, things may be changed in the future
 {{< /hint >}}
 
 # Web

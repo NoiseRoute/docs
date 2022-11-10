@@ -1,0 +1,20 @@
+---
+main:
+  - name: Manual
+    ref: "/manual/"
+    sub:
+      - name: Noise Route Desktop
+        ref: "/manual/desktop"
+      - name: Noise Route Mobile
+        ref: "/manual/mobile"
+      - name: Feature Limitation
+        ref: "/manual/feature_limitation"
+  - name: Information
+    ref: "/information/"
+    sub:
+      - name: Contact
+        ref: "/information/contact"
+      - name: Open source
+        ref: "/information/open_source"
+      - name: Privacy Policy
+        ref: "/information/privacy_policy"

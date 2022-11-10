@@ -14,6 +14,7 @@ Desktop and mobile app built on the same code base, hence they use (mose of) the
   * [expandable](https://pub.dev/packages/expandable)
   * [url_launcher](https://pub.dev/packages/url_launcher)
   * [path_provider](https://pub.dev/packages/path_provider)
+  * [statemachine](https://pub.dev/packages/statemachine)
   * [ffi](https://pub.dev/packages/ffi)
   * [ffigen](https://pub.dev/packages/ffigen)
   * [system_tray](https://pub.dev/packages/system_tray)(desktop only)
@@ -22,6 +23,7 @@ Desktop and mobile app built on the same code base, hence they use (mose of) the
   * [audio_service](https://pub.dev/packages/audio_service)(mobile only)
   * [mobile_scanner](https://pub.dev/packages/mobile_scanner)(mobile only)
 * [gstreamer](https://gstreamer.freedesktop.org/)
+* [openssl](https://www.openssl.org/)(desktop only)
 
 # Web
 The web app uses these major building blocks:

@@ -5,19 +5,24 @@ geekdocAlign: start
 geekdocAnchor: true
 ---
 
-{{< hint type=important title="Alpha" >}}
-Noise Route is currently in alpha version, things may be changed in the future
+{{< hint type=important title="Beta" >}}
+Noise Route is currently in beta version.
 {{< /hint >}}
 
 # Install
-* iOS
-Noise Route on iOS is available on [App Sotre](https://apps.apple.com/cn/app/noise-route/id1639281565)
+Both does not require account, and can connect up to two devices that has no active subscription account logged in.
 
-* Android
+## iOS
+iOS version is available on [App Sotre](https://apps.apple.com/cn/app/noise-route/id1639281565)
+
+## Android
 Android version is available on [Google Play](https://play.google.com/store/apps/details?id=com.fengjiongmax.noise_route&pli=1)
 
+## Before connecting
+Before connecting to device, make sure the device sending audio and the device receiving audio are in the same local network(in the same wifi).
+
 ## Receiving audio
-Mobile app can only receives audio from pc, so you'll be need a [pc to send audio from](../desktop).
+Mobile app can only receives audio from pc, so you'll need a [pc to send audio from](../desktop).
 
 After pc version is installed, you can start adding devices.
 
@@ -48,3 +53,8 @@ You can tap the gear icon on the top right cornor, and tap 'Quit'.
 <img src="/images/mobile-quitting2.png" width="400px" />
 
 The reason why it's designed this way is that adding another layer can prevent user accidently tapping quit.
+
+## Premium feature
+Since mobile app does not require account, and mobile apps can only play audio, mobile apps don't have configurations for premium features. But if the pc that sending audio was logged in with an account that has active subscription, mobile apps supports those features.
+
+![](/images/play_audio_premium_features.png)
