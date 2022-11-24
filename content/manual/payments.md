@@ -5,12 +5,12 @@ geekdocAlign: start
 geekdocAnchor: true
 ---
 
-Both setting up your 30 day free trial and subscription will require an account, you can [register](https://noiseroute.com/register) or [login](https://noiseroute.com/login).
+Both setting up your 30 day free trial and subscription will require an account, you can [Sign Up](https://noiseroute.com/signup) or [Sign In](https://noiseroute.com/signin).
 
 ## Trailing
 If your account haven't setup trail before, after your email has been verified, you should see this in your [account page](https://noiseroute.com/account):
 
-![trial_not_setup](/images/trial_not_setup.png)
+![trial_not_setup](/images/trial-not-setup.png)
 
 Clicking `Setup trial on stripe` will redirect you to stripe billing, and you should see a `Start trial` button, clicking it and you are good to go.
 

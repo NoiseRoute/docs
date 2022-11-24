@@ -29,7 +29,7 @@ After pc version is installed, you can start adding devices.
 ## Add device
 After tapping "`+`" icon on top right, you will see a popup like so:
 
-<img src="/images/mobile-add-device.png" width="400px" />
+<img src="/images/mobile_add_device.png" width="400px" />
 
 You can add device with one of the method listed below:
 
@@ -55,6 +55,9 @@ You can tap the gear icon on the top right cornor, and tap 'Quit'.
 The reason why it's designed this way is that adding another layer can prevent user accidently tapping quit.
 
 ## Premium feature
-Since mobile app does not require account, and mobile apps can only play audio, mobile apps don't have configurations for premium features. But if the pc that sending audio was logged in with an account that has active subscription, mobile apps supports those features.
+Since mobile app does not require account, and mobile apps can only play audio, mobile apps don't have configurations for premium features. But if the pc that sending audio was logged in with an account that has active subscription, premium feature informations will show in device detail.
 
-![](/images/play_audio_premium_features.png)
+<img src="/images/mobile_premium_info.png" width="400px">
+
+By tapping on `TLS encryption` or `Audio ENC`, correspond encryption informations will show up.
+<img src="/images/mobile_enc_info.png" width="400px">

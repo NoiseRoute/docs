@@ -5,7 +5,7 @@ geekdocAlign: start
 geekdocAnchor: true
 ---
 
-You can run noise route without an account, but with limited feature, you can [register](https://noiseroute.com/register) or and [setup subscription](../payments#subscription).
+You can run noise route without an account, but with limited feature, you can [Sign In](https://noiseroute.com/signin) or and [setup subscription](../payments#subscription).
 
 | Features                            | No account | Account without acitve buscription | Active subscription account |
 | :---------------------------------- | ---------- | ---------------------------------- | --------------------------- |
