@@ -11,8 +11,8 @@ You can run noise route without an account, but with limited feature, you can [S
 | :---------------------------------- | ---------- | ---------------------------------- | --------------------------- |
 | Streaming from/to amount of devices | 1          | 2                                  | unlimited                   |
 | L/R Channel selecting               | -          | Y                                  | Y                           |
+| OPUS Encoding                       | -          | Y                                  | Y                           |
 | TLS/SSL encrypted communication     | -          | -                                  | Y                           |
 | AES audio encryption                | -          | -                                  | Y                           |
-|                                     |            |                                    |                             |
 
 
